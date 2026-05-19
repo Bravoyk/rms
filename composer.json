@@ -1,11 +1,11 @@
 {
-    "name": "api/kuafu",
+    "name": "api/xijie",
     "type": "project",
-    "description": "The KuaFu api.",
+    "description": "The xijie api.",
     "keywords": [
         "framework",
         "laravel",
-        "kuafu"
+        "xijie"
     ],
     "license": "MIT",
     "require": {
@@ -37,15 +37,15 @@
         "guanguans/laravel-exception-notify": "^2.12",
         "guzzlehttp/guzzle": "^7.3",
         "intervention/image": "^2.7",
-        "kuafu-composer/api-time": "1.1.1",
-        "kuafu/csv-stream-exporter": "1.0.3",
-        "kuafu/file": "^1.3",
-        "kuafu/general-fs": "^1.0",
-        "kuafu/green-content": "^1.0",
-        "kuafu/ipwhite": "^1.0",
-        "kuafu/laravel-clickhouse": "1.9",
-        "kuafu/nsq": "^2.0",
-        "kuafu/recognizer": "^1.3",
+        "xijie-composer/api-time": "1.1.1",
+        "xijie/csv-stream-exporter": "1.0.3",
+        "xijie/file": "^1.3",
+        "xijie/general-fs": "^1.0",
+        "xijie/green-content": "^1.0",
+        "xijie/ipwhite": "^1.0",
+        "xijie/laravel-clickhouse": "1.9",
+        "xijie/nsq": "^2.0",
+        "xijie/recognizer": "^1.3",
         "laravel/framework": "^8.40",
         "laravel/tinker": "^2.5",
         "league/csv": "^9.8",
@@ -127,11 +127,11 @@
             "type": "composer",
             "url": "https://mirrors.aliyun.com/composer/"
         },
-        "kuafu-composer/api-time": {
+        "xijie-composer/api-time": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/api-time.git"
         },
-        "kuafu/file": {
+        "xijie/file": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/file.git"
         },
@@ -143,7 +143,7 @@
             "type": "vcs",
             "url": "https://git.xijie.com/package/xin-helper.git"
         },
-        "kuafu/csv-stream-exporter": {
+        "xijie/csv-stream-exporter": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/csv-stream-exporter.git"
         },
@@ -151,27 +151,27 @@
             "type": "vcs",
             "url": "https://git.xijie.com/package/eleme-openapi-php-sdk.git"
         },
-        "kuafu/ipwhite": {
+        "xijie/ipwhite": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/ipwhite.git"
         },
-        "kuafu/laravel-clickhouse": {
+        "xijie/laravel-clickhouse": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/laravel-clickhouse.git"
         },
-        "kuafu/nsq": {
+        "xijie/nsq": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/nsq.git"
         },
-        "kuafu/general-fs": {
+        "xijie/general-fs": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/general-fs.git"
         },
-        "kuafu/recognizer": {
+        "xijie/recognizer": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/recognizer.git"
         },
-        "kuafu/green-content": {
+        "xijie/green-content": {
             "type": "vcs",
             "url": "https://git.xijie.com/package/green-content.git"
         }
